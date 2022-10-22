@@ -1,7 +1,7 @@
 # SETUP
 baseurl = "https://tgm-karaka.github.io/"
 DefaultContentLanguage = "en"
-publishdir = "public"
+publishdir = "docs"
 canonifyUrls = "true"
 disableKinds = ["RSS","taxonomy","taxonomyTerm"] # disable hugo's content that we don't need...
 
